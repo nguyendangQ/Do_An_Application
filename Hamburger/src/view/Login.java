@@ -75,7 +75,7 @@ public class Login extends javax.swing.JFrame {
 
         jButton2.setText("Register");
 
-        jPanel3.setBackground(new java.awt.Color(255, 153, 0));
+        jPanel3.setBackground(new java.awt.Color(153, 255, 0));
 
         jLabel4.setBackground(new java.awt.Color(255, 153, 0));
         jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/hamburger.jpg"))); // NOI18N
